@@ -1,4 +1,4 @@
-package basic
+package fundamental
 
 /**
  * Created by Himanshu Srivastava on 24,July,2023

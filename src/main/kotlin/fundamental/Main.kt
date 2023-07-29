@@ -1,4 +1,4 @@
-package basic
+package fundamental
 
 /*
 # main() entry point for kotlin
